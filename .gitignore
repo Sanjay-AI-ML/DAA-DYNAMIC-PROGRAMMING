@@ -1,0 +1,21 @@
+# Binaries and object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Generated QR codes
+qr-*.png
+qr-*.svg
+repo-qr.*
